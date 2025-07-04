@@ -1,10 +1,11 @@
-### Hi, I'm Lucas 👋🏻🧑🏼‍💻
+## Hello, world! 👋🏻
 
-I'm a software engineer who graduated in Computer Information Systems from São Paulo, Brazil. I consider myself a padawan with a passion for coding. Currently, I am on the lookout for an exciting opportunity where I can unleash my coding skills and connect with like-minded individuals. Some technologies I enjoy working with include Ruby on Rails, RSpec, and API development. Currently, I am enhancing my skills through personal projects, engaging in code challenges, and delving into technical books.
+I am Lucas, a Software Engineer with over 5 years of experience with a special focus on Ruby on Rails and SaaS products. I have worked in several industries, including fintech, insurance, and online subscription management platform. 
 
-## Find me around the web 🌎:
-- Learning in public on <a href="https://dev.to/lsfernandes92">dev.to/lsfernandes92</a> and <a href="https://bsky.app/profile/variosonrails.bsky.social">Bluesky</a> ✍🏻
-- Here you can find my <a href="https://gist.github.com/lsfernandes92/00d858a9ed45680145f2da20c638a7fe">CV</a> 📁
-- My online portfolio can be found <a href="https://lsfernandes92.github.io/portifolio/">here</a> also 👤
-- Some coding statistics of mine <a href="https://wakatime.com/@lsfernandes92">Wakatime</a> 🕐
-- Sharing updates on <a href="https://www.linkedin.com/in/lsfernandes92">LinkedIn</a> 💼
+The Ruby language and the Rails framework were technologies I chose after I started programming, and I'm still **excited** to work with them every day. ❤️
+
+I've been learning in public on <a href="https://jaggies-weekly.netlify.app/">my blog</a> and sharing my two cents on <a href="https://ruby.social/@jaggiesweekly">Mastodon</a>, <a href="https://bsky.app/profile/jaggiesweekly.bsky.social‬">BlueSky</a> and <a href="https://www.linkedin.com/in/lsfernandes92">LinkedIn</a>.
+
+<a href="https://wakatime.com/@lsfernandes92">Here</a> is some coding statistics of mine.
+
+Learn more <a href="https://jaggies-weekly.netlify.app/about/">about me</a>.
