@@ -10,4 +10,4 @@ If you are considering **supporting me**, <a href="https://ko-fi.com/jaggiesweek
 
 <a href="https://wakatime.com/@lsfernandes92">Here</a> is some coding **statistics** of mine.
 
-Learn more <a href="https://jaggies-weekly.netlify.app/about/">about me</a>.
+Learn more <a href="https://jaggies-weekly.netlify.app/about/">**about me**</a>.
