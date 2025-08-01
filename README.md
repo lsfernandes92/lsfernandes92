@@ -6,7 +6,7 @@ The Ruby language and the Rails framework were technologies I chose after I star
 
 I've been **learning in public** on <a href="https://jaggies-weekly.netlify.app/">my blog</a> and sharing my two cents on <a href="https://ruby.social/@jaggiesweekly">Mastodon</a>, <a href="https://bsky.app/profile/jaggiesweekly.bsky.social‬">BlueSky</a> and <a href="https://www.linkedin.com/in/lsfernandes92">LinkedIn</a>.
 
-If you are considering **supporting me**, <a href="https://ko-fi.com/jaggiesweekly">click here</a>.
+If you are considering **supporting me**, <a href="https://buymeacoffee.com/jaggiesweekly">buy me a coffee</a>.
 
 <a href="https://wakatime.com/@lsfernandes92">Here</a> is some coding **statistics** of mine.
 
