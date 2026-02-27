@@ -4,7 +4,7 @@ I am Lucas, a Software Engineer with over 5 years of experience with a special f
 
 The Ruby language and the Rails framework were technologies I chose after I started programming, and I'm still **excited** to work with them every day. ❤️
 
-I've been **learning in public** on <a href="https://jaggies-weekly.netlify.app/">my blog</a> and sharing my two cents on <a href="https://ruby.social/@jaggiesweekly">Mastodon</a>, <a href="https://bsky.app/profile/jaggiesweekly.bsky.social‬">BlueSky</a> and <a href="https://www.linkedin.com/in/lsfernandes92">LinkedIn</a>. And guess what? I'm on <a href="[https://www.linkedin.com/in/lsfernandes92](https://codeberg.org/lsfernandes92)">Codeberg</a> too!
+I've been **learning in public** on <a href="https://jaggies-weekly.netlify.app/">my blog</a> and sharing my two cents on <a href="https://ruby.social/@jaggiesweekly">Mastodon</a>, <a href="https://bsky.app/profile/jaggiesweekly.bsky.social‬">BlueSky</a> and <a href="https://www.linkedin.com/in/lsfernandes92">LinkedIn</a>. And guess what? I'm on <a href="https://codeberg.org/lsfernandes92">Codeberg</a> too!
 
 If you are considering **supporting me**, <a href="https://buymeacoffee.com/jaggiesweekly">buy me a coffee</a>.
 
